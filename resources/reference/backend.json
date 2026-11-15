@@ -994,5 +994,7 @@
     "Weekdays",
     "Week :number",
     "Who does which task",
-    "Without a name"
+    "Without a name",
+    "Messages from plugins",
+    "Off until switched on. A ticked plugin may send messages to the bell and the phones of this household."
 ]
