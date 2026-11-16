@@ -370,6 +370,7 @@
     "photos.next": "Next picture",
     "photos.none": "No photos yet.",
     "photos.noneHint": "Photos are uploaded in the admin. If your pictures already sync to a folder — with the Amazon Photos app, say — connect a photo source there.",
+    "photos.shareRefused": "Sharing photos here needs the photos area and the permission to upload photos.",
     "photos.uploadIntro": "Pictures for the photo frame on the wall. The phone shrinks them before uploading; the server removes locations and other metadata.",
     "photos.folder": "Folder",
     "photos.againHint": "Family Home Base recognises pictures it already has. So you can pick a folder again at any time — only the new ones are added.",
