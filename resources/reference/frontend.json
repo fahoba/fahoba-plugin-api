@@ -506,7 +506,10 @@
     "device.coloredIcons": "Colourful menu icons",
     "device.coloredEmoji": "Colourful task and reward icons",
     "device.animations": "Animations",
-    "device.glass": "Glass look",
+    "device.look": "Look",
+    "device.lookClassic": "Classic",
+    "device.lookGlass": "Glass",
+    "device.lookEvening": "Evening",
     "device.backdrop": "Background",
     "device.backdropHousehold": "As in the household",
     "device.backdropDawn": "Dawn",
@@ -518,6 +521,10 @@
     "device.design": "Design",
     "device.menuTop": "Top of the menu",
     "device.menuTopLogo": "Logo",
+    "device.wideMenu": "Menu on large screens",
+    "device.wideMenuAuto": "Follow the look",
+    "device.wideMenuSide": "Side bar",
+    "device.wideMenuBottom": "Bar at the bottom",
     "device.phoneMenu": "Menu on the phone",
     "device.phoneMenuDrawer": "Behind the button",
     "device.phoneMenuBottom": "Bar at the bottom",
@@ -702,5 +709,9 @@
     "statistics.empty": "Nothing was done in this period.",
     "statistics.cell": "{person}: {count}× {task}",
     "statistics.column": "{label}: {count} done",
-    "statistics.failed": "The statistics could not be loaded."
+    "statistics.failed": "The statistics could not be loaded.",
+    "status.allDone": "All done",
+    "status.eventsToday": "Nothing today | 1 event today | {n} events today",
+    "status.nothingMissing": "Nothing missing",
+    "status.nothingPlanned": "Nothing planned"
 }
